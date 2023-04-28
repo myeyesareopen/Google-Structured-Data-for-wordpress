@@ -1,3 +1,4 @@
+<?php
 function sk_site_meta() {
     $site_meta = array (
         'name' => 'Bitprismia',
